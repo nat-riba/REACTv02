@@ -1,0 +1,28 @@
+.card-produto {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .preco {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .preco-desconto {
+    color: #e53935; 
+  }
+  
+  .preco-original {
+    text-decoration: line-through; 
+    margin-left: 10px;
+    color: #757575;
+  }
+  
+  .desconto {
+    margin-top: 10px;
+    color: #388e3c; 
+  }
+  
